@@ -1,4 +1,7 @@
-# Política de privacidad de Relataria
+---
+title: Política de privacidad de Relataria
+permalink: /privacidad/
+---
 
 **Última actualización:** 23 de julio de 2026
 

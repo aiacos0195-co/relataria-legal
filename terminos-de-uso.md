@@ -1,4 +1,7 @@
-# Términos de uso de Relataria
+---
+title: Términos de uso de Relataria
+permalink: /terminos/
+---
 
 **Última actualización:** 23 de julio de 2026
 

@@ -1,4 +1,7 @@
-# Política de contenido de Relataria
+---
+title: Política de contenido de Relataria
+permalink: /contenido/
+---
 
 **Última actualización:** 23 de julio de 2026
 
