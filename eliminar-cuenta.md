@@ -1,3 +1,8 @@
+---
+layout: default
+title: Eliminación de cuenta
+permalink: /eliminar-cuenta/
+---
 # Eliminación de cuenta y datos
 
 **Aplicación:** Relataria (`com.relataria.app`)
